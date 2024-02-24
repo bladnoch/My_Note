@@ -5,9 +5,12 @@ public class Main {
     static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) {
 
-        System.out.println(getScore());
-
+//        System.out.println(getScore());
+//        System.out.println(RomanToInteger.romanInteger(sc.nextLine()));
     }
+
+
+
     public static int getScore(){
         int intMax=0;
         int[] num=new int[3];
