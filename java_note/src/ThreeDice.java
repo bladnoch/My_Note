@@ -3,6 +3,8 @@ public class ThreeDice {
         int score=0;
         int[] num=new int[3];
 
+
+
         //        change String to int
         for(int i=0;i<num.length;i++){
             num[i]=Integer.parseInt(sNum[i]);
