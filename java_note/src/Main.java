@@ -5,7 +5,11 @@ public class Main {
     static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) {
 
+
+
 //        ValidParentheses
+        String input="]";
+        System.out.println(ValidParentheses.isValid(input));
 
 
 //        LongestCommonPrefix(not completed)
