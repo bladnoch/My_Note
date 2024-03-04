@@ -5,11 +5,14 @@ public class Main {
     static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) {
 
+//        ValidParentheses
 
 
-
-
-
+//        LongestCommonPrefix(not completed)
+//        String[] strs = {"flower","flow","flight"};
+//        String[] strs_2 = {"dog","racecar","car"};
+//        System.out.println(LongestCommonPrefix.solution(strs));
+//        System.out.println(LongestCommonPrefix.solution(strs_2));
 
 //        ThreeDice
 //        System.out.println(getScore());
