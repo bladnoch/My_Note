@@ -4,12 +4,13 @@ import java.util.Scanner;
 public class Main {
     static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) {
+        //main here
 
 
 
 //        ValidParentheses
-        String input="]";
-        System.out.println(ValidParentheses.isValid(input));
+//        String input="]";
+//        System.out.println(ValidParentheses.isValid(input));
 
 
 //        LongestCommonPrefix(not completed)
@@ -29,7 +30,7 @@ public class Main {
     }
 
 
-
+    //        ThreeDice
     public static int getScore(){
         int intMax=0;
         int[] num=new int[3];
